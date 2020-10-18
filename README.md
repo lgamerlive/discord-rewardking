@@ -1,2 +1,7 @@
-discord rewardking
+# discord rewardking
 
+why reward king?
+
+- daily giveaways
+- rewards
+- nitro
